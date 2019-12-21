@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DictionaryDemo</string>
+    <string name="hintETSearch">Gõ từ để tra từ điển</string>
+    <string name="history">Tìm kiếm gần đây</string>
+    <string name="transV_A">Dịch từ tiếng Việt sang tiếng Anh</string>
+    <string name="transA_V">Dịch từ tiếng Anh sang tiếng Việt</string>
+    <string name="mess">Ấn lần nữa để thoát</string>
+    <string name="delete">Xóa tất cả</string>
+</resources>
